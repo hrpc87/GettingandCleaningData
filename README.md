@@ -24,6 +24,7 @@ This document describes how the script works
 13. Put all data together.
 
 TRAIN ACTIVITIES
+
 14. Read train variables
 15. Read train activities.
 16. Read train subjects.
